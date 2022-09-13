@@ -10,7 +10,7 @@ const ChangeShelf = ({shelf,Book,thetransfer}) => {
 
     return(
     <select value={theshelf} onChange={(event) => makechange(event.target.value)}>
-        <option value="none" disabled>
+        <option value="moveto" disabled>
             Move to...
         </option>
         <option value="currentlyReading">
