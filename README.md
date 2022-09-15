@@ -33,3 +33,9 @@
 * HTML&CSS
 * JavaScript
 * React
+
+## Pictures of the website
+![]()
+![]()
+![]()
+![]()
