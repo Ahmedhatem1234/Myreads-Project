@@ -1,7 +1,7 @@
 # Myreads-Project
  it's a project that enable the user to select books that he/she wants to read, move books between different shelves and searches for the book that he/she wants to read.
 
-# Installing And Launching
+## Installing And Launching
  after downloading the Project or Cloning it these are the Steps to install and launch the project:
   1) open **Visual studio code**
   2) open the folder of the project
