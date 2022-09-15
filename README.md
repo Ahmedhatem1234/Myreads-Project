@@ -36,6 +36,4 @@
 
 ## Pictures of the website
 ![Screenshot](Screenshot 2022-09-15 193007.png)
-![Screenshot](Screenshot 2022-09-15 193007.png)
-![Screenshot](Screenshot 2022-09-15 193007.png)
-![Screenshot](Screenshot 2022-09-15 193007.png)
+
