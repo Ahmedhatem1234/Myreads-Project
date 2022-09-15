@@ -20,12 +20,12 @@
 * There are **Three Shelves** (**currently reading**, **want to read**, **read**).
 * All of the shelves have **books** that the user **read, wants to read and currently reading**.
 * The user can **move** the books**between** every shelf by a **select button** on the bottom right of the book.
-* If the user **don't want** the book any more, the user will select **none option from the select button.
+* If the user **don't want** the book any more, the user will select **none** option from the select button.
 
 ### Second Page of The Website:-
-* There is a search bar that you can search about all the books that you wants to read.
-* After you search about the book you wanted to read there is a select button on the right bottom of it.
-* you can use the select button to move the book to any shelf in the first page of the website.
+* There is a **search bar** that you can **search about all the books** that you wants to read.
+* After you search about the book you wanted to read there is a **select button** on the right bottom of it.
+* you can use the select button to **move the book to any shelf** in the first page of the website.
 
 ## Languages
 
