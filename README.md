@@ -34,4 +34,4 @@
 * JavaScript
 * React
 
-![]()
+![](photo1.png)
